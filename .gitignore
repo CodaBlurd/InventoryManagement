@@ -1,0 +1,11 @@
+.idea/
+.mvn/
+*.iml
+.ipr
+.iws
+out/
+target/
+*.log
+*.bak
+*.envw
+application.properties
